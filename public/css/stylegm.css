@@ -1,0 +1,52 @@
+* {
+    font-family: "Poppins", sans-serif;
+    font-size: 15px;
+}
+
+body {
+    height: 100vh;
+}
+
+.navbar {
+    background: rgba(240, 150, 10, 1);
+    background: linear-gradient(90deg, rgba(255, 215, 0, 1) 0%, rgba(240, 150, 10, 1) 79%, rgba(237, 136, 12, 1) 100%);
+    color: rgb(39, 58, 152);
+}
+
+.judul {
+    background: rgba(240, 150, 10, 1);
+    background: linear-gradient(90deg, rgba(255, 215, 0, 1) 0%, rgba(240, 150, 10, 1) 79%, rgba(237, 136, 12, 1) 100%);
+}
+
+.text {
+    color: white;
+    text-shadow: -3px 3px 0px rgb(255, 111, 0);
+}
+
+.borders {
+    border-radius: 10px;
+    border-color: white;
+    padding: 30px;
+}
+
+.present {
+    font-size: 18px;
+    color: grey;
+
+}
+
+.title {
+    font-weight: bold;
+    font-size: 50px;
+    color: rgb(39, 58, 152);
+    color: linear-gradient(90deg, rgba(39, 58, 152, 1) 0%, rgba(20, 102, 185, 1) 100%);
+}
+
+.badge {
+    background-color: #0882CD;
+}
+
+.navbar-dark {
+    color: rgb(39, 58, 152);
+
+}
